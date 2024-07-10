@@ -1,0 +1,9 @@
+C:\Users\ASUS\Desktop\testttt\test1\MIP2VPS\bin\Debug\MIP2VPS.def
+C:\Users\ASUS\Desktop\testttt\test1\MIP2VPS\bin\Debug\MIP2VPS.dll
+C:\Users\ASUS\Desktop\testttt\test1\MIP2VPS\bin\Debug\MIP2VPS.pdb
+C:\Users\ASUS\Desktop\testttt\test1\MIP2VPS\bin\Debug\VideoOS.Platform.DriverFramework.dll
+C:\Users\ASUS\Desktop\testttt\test1\MIP2VPS\obj\Debug\MIP2VPS.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\testttt\test1\MIP2VPS\obj\Debug\MIP2VPS.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\testttt\test1\MIP2VPS\obj\Debug\MIP2VPS.csproj.CopyComplete
+C:\Users\ASUS\Desktop\testttt\test1\MIP2VPS\obj\Debug\MIP2VPS.dll
+C:\Users\ASUS\Desktop\testttt\test1\MIP2VPS\obj\Debug\MIP2VPS.pdb

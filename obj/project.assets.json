@@ -1,0 +1,162 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETFramework,Version=v4.7": {
+      "MilestoneSystems.VideoOS.Platform.DriverFramework/23.3.1": {
+        "type": "package",
+        "compile": {
+          "lib/net47/VideoOS.Platform.DriverFramework.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/net47/VideoOS.Platform.DriverFramework.dll": {
+            "related": ".xml"
+          }
+        }
+      }
+    },
+    ".NETFramework,Version=v4.7/win": {
+      "MilestoneSystems.VideoOS.Platform.DriverFramework/23.3.1": {
+        "type": "package",
+        "compile": {
+          "lib/net47/VideoOS.Platform.DriverFramework.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/net47/VideoOS.Platform.DriverFramework.dll": {
+            "related": ".xml"
+          }
+        }
+      }
+    },
+    ".NETFramework,Version=v4.7/win-arm64": {
+      "MilestoneSystems.VideoOS.Platform.DriverFramework/23.3.1": {
+        "type": "package",
+        "compile": {
+          "lib/net47/VideoOS.Platform.DriverFramework.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/net47/VideoOS.Platform.DriverFramework.dll": {
+            "related": ".xml"
+          }
+        }
+      }
+    },
+    ".NETFramework,Version=v4.7/win-x64": {
+      "MilestoneSystems.VideoOS.Platform.DriverFramework/23.3.1": {
+        "type": "package",
+        "compile": {
+          "lib/net47/VideoOS.Platform.DriverFramework.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/net47/VideoOS.Platform.DriverFramework.dll": {
+            "related": ".xml"
+          }
+        }
+      }
+    },
+    ".NETFramework,Version=v4.7/win-x86": {
+      "MilestoneSystems.VideoOS.Platform.DriverFramework/23.3.1": {
+        "type": "package",
+        "compile": {
+          "lib/net47/VideoOS.Platform.DriverFramework.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/net47/VideoOS.Platform.DriverFramework.dll": {
+            "related": ".xml"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MilestoneSystems.VideoOS.Platform.DriverFramework/23.3.1": {
+      "sha512": "5TpNe34B/gU0cIXLMIGRWii5dr8ps4Z/h5pUhWA029FNC+ee6WkaQzp2xwHLbsGsyWB74mm9RmpXOecWx+uk/Q==",
+      "type": "package",
+      "path": "milestonesystems.videoos.platform.driverframework/23.3.1",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "MIPSDK_EULA.txt",
+        "images/MilestoneLogo.png",
+        "lib/net47/VideoOS.Platform.DriverFramework.dll",
+        "lib/net47/VideoOS.Platform.DriverFramework.xml",
+        "milestonesystems.videoos.platform.driverframework.23.3.1.nupkg.sha512",
+        "milestonesystems.videoos.platform.driverframework.nuspec"
+      ]
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETFramework,Version=v4.7": [
+      "MilestoneSystems.VideoOS.Platform.DriverFramework >= 23.3.1"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\ASUS\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\ASUS\\Desktop\\testttt\\test1\\MIP2VPS\\MIP2VPS.csproj",
+      "projectName": "MIP2VPS",
+      "projectPath": "C:\\Users\\ASUS\\Desktop\\testttt\\test1\\MIP2VPS\\MIP2VPS.csproj",
+      "packagesPath": "C:\\Users\\ASUS\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\ASUS\\Desktop\\testttt\\test1\\MIP2VPS\\obj\\",
+      "projectStyle": "PackageReference",
+      "skipContentFileWrite": true,
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\ASUS\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net47"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net47": {
+          "projectReferences": {}
+        }
+      }
+    },
+    "frameworks": {
+      "net47": {
+        "dependencies": {
+          "MilestoneSystems.VideoOS.Platform.DriverFramework": {
+            "target": "Package",
+            "version": "[23.3.1, )"
+          }
+        }
+      }
+    },
+    "runtimes": {
+      "win": {
+        "#import": []
+      },
+      "win-arm64": {
+        "#import": []
+      },
+      "win-x64": {
+        "#import": []
+      },
+      "win-x86": {
+        "#import": []
+      }
+    }
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "FQ01RsLgiqFxDRgGfGxsOoEnMAPDWOxgsMgH0k7GpjRVASA/0/Bjq3T6YMI9awdcuryRYfTHlIcvh2CyNSl+JA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ASUS\\Desktop\\testttt\\test1\\MIP2VPS\\MIP2VPS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ASUS\\.nuget\\packages\\milestonesystems.videoos.platform.driverframework\\23.3.1\\milestonesystems.videoos.platform.driverframework.23.3.1.nupkg.sha512"
+  ],
+  "logs": []
+}
